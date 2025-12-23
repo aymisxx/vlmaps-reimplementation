@@ -1,0 +1,31 @@
+# Core scientific stack
+numpy
+scipy
+matplotlib
+scikit-learn
+tqdm
+
+# Deep learning
+torch
+torchvision
+pytorch-lightning
+timm
+
+# Vision and image processing
+opencv-python
+imageio
+Pillow
+h5py
+
+# Visual-language models
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+
+# Visualization and analysis
+altair
+wandb
+
+# Utilities
+ipython
+protobuf
