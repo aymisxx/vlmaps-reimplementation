@@ -17,8 +17,7 @@ navigation and semantic reasoning.
 
 Traditional robot navigation systems rely heavily on geometric maps generated via SLAM.
 While effective for localization and obstacle avoidance, these systems lack semantic
-understanding and cannot interpret natural language instructions such as  
-“go to the chair next to the table.”
+understanding and cannot interpret natural language instructions such as “go to the chair next to the table.”
 
 Conversely, modern vision–language models excel at associating images with text but operate
 on isolated observations and lack persistent spatial memory.
